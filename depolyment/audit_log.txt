@@ -1,0 +1,5 @@
+[RECEIVED] ./source/server/data/100_2022_02_17_12_16_03.jpg [VERIFIED] from 100
+[RECEIVED] ./source/server/data/100_2022_02_17_12_16_10.jpg [FAILED VERIFICATION] from 100
+[RECEIVED] ./source/server/data/100_2022_02_17_12_16_17.jpg [VERIFIED] from 100
+[RECEIVED] ./source/server/data/100_2022_02_17_12_16_24.jpg [VERIFIED] from 100
+[RECEIVED] ./source/server/data/100_2022_02_17_12_16_31.jpg [VERIFIED] from 100

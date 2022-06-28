@@ -1,7 +1,4 @@
 ﻿# ACG
- ## Table of Contents
- ```toc
- ```  
 CA2 Assignment for Year 1 Semester 2 (Applied Cryptography)
 
 - Objective of project is to implement a public and private RSA key infrastructure to encrypt and secure the process of transferring an image from a camera to the server
